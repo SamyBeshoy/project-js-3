@@ -1,5 +1,5 @@
 "use strict";
-document.title = "Project 2";
+document.title = "Project 3";
 document.body.style.cssText = "font-family: Arial, Helvetica, sans-serif; height: 100vh; background-image: linear-gradient(211deg, rgb(138, 209, 255), rgb(60, 201, 157), rgb(152, 255, 234));";
 let description = document.createElement("h3");
 let d_text = document.createTextNode("Description Is : When You Enter The Website You Automatically Make Focus On Input One When You Go Out From Input One You Automatically Focus On Input Two When You Go Out From Input Two Automatically Focus On Input Three")
